@@ -1,0 +1,15 @@
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\bin\Debug\net6.0\adivinarUnNumeroT6.exe
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\bin\Debug\net6.0\adivinarUnNumeroT6.deps.json
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\bin\Debug\net6.0\adivinarUnNumeroT6.runtimeconfig.json
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\bin\Debug\net6.0\adivinarUnNumeroT6.dll
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\bin\Debug\net6.0\adivinarUnNumeroT6.pdb
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\obj\Debug\net6.0\adivinarUnNumeroT6.csproj.AssemblyReference.cache
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\obj\Debug\net6.0\adivinarUnNumeroT6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\obj\Debug\net6.0\adivinarUnNumeroT6.AssemblyInfoInputs.cache
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\obj\Debug\net6.0\adivinarUnNumeroT6.AssemblyInfo.cs
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\obj\Debug\net6.0\adivinarUnNumeroT6.csproj.CoreCompileInputs.cache
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\obj\Debug\net6.0\adivinarUnNumeroT6.dll
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\obj\Debug\net6.0\refint\adivinarUnNumeroT6.dll
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\obj\Debug\net6.0\adivinarUnNumeroT6.pdb
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\obj\Debug\net6.0\adivinarUnNumeroT6.genruntimeconfig.cache
+C:\Users\infor\source\repos\adivinarUnNumeroT6\adivinarUnNumeroT6\obj\Debug\net6.0\ref\adivinarUnNumeroT6.dll
