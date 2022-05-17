@@ -1,0 +1,15 @@
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\bin\Debug\net6.0\tareaClaseCinco.exe
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\bin\Debug\net6.0\tareaClaseCinco.deps.json
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\bin\Debug\net6.0\tareaClaseCinco.runtimeconfig.json
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\bin\Debug\net6.0\tareaClaseCinco.dll
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\bin\Debug\net6.0\tareaClaseCinco.pdb
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\obj\Debug\net6.0\tareaClaseCinco.csproj.AssemblyReference.cache
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\obj\Debug\net6.0\tareaClaseCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\obj\Debug\net6.0\tareaClaseCinco.AssemblyInfoInputs.cache
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\obj\Debug\net6.0\tareaClaseCinco.AssemblyInfo.cs
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\obj\Debug\net6.0\tareaClaseCinco.csproj.CoreCompileInputs.cache
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\obj\Debug\net6.0\tareaClaseCinco.dll
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\obj\Debug\net6.0\refint\tareaClaseCinco.dll
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\obj\Debug\net6.0\tareaClaseCinco.pdb
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\obj\Debug\net6.0\tareaClaseCinco.genruntimeconfig.cache
+C:\Users\infor\source\repos\tareaClaseCinco\tareaClaseCinco\obj\Debug\net6.0\ref\tareaClaseCinco.dll
