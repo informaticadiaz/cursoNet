@@ -1,0 +1,15 @@
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\bin\Debug\net6.0\ejercicioOcho.exe
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\bin\Debug\net6.0\ejercicioOcho.deps.json
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\bin\Debug\net6.0\ejercicioOcho.runtimeconfig.json
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\bin\Debug\net6.0\ejercicioOcho.dll
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\bin\Debug\net6.0\ejercicioOcho.pdb
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\obj\Debug\net6.0\ejercicioOcho.csproj.AssemblyReference.cache
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\obj\Debug\net6.0\ejercicioOcho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\obj\Debug\net6.0\ejercicioOcho.AssemblyInfoInputs.cache
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\obj\Debug\net6.0\ejercicioOcho.AssemblyInfo.cs
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\obj\Debug\net6.0\ejercicioOcho.csproj.CoreCompileInputs.cache
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\obj\Debug\net6.0\ejercicioOcho.dll
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\obj\Debug\net6.0\refint\ejercicioOcho.dll
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\obj\Debug\net6.0\ejercicioOcho.pdb
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\obj\Debug\net6.0\ejercicioOcho.genruntimeconfig.cache
+C:\Users\infor\source\repos\ejercicioOcho\ejercicioOcho\obj\Debug\net6.0\ref\ejercicioOcho.dll
