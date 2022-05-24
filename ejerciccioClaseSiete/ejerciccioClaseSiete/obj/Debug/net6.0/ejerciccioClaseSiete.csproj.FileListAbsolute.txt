@@ -1,0 +1,15 @@
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\bin\Debug\net6.0\ejerciccioClaseSiete.exe
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\bin\Debug\net6.0\ejerciccioClaseSiete.deps.json
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\bin\Debug\net6.0\ejerciccioClaseSiete.runtimeconfig.json
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\bin\Debug\net6.0\ejerciccioClaseSiete.dll
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\bin\Debug\net6.0\ejerciccioClaseSiete.pdb
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\obj\Debug\net6.0\ejerciccioClaseSiete.csproj.AssemblyReference.cache
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\obj\Debug\net6.0\ejerciccioClaseSiete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\obj\Debug\net6.0\ejerciccioClaseSiete.AssemblyInfoInputs.cache
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\obj\Debug\net6.0\ejerciccioClaseSiete.AssemblyInfo.cs
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\obj\Debug\net6.0\ejerciccioClaseSiete.csproj.CoreCompileInputs.cache
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\obj\Debug\net6.0\ejerciccioClaseSiete.dll
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\obj\Debug\net6.0\refint\ejerciccioClaseSiete.dll
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\obj\Debug\net6.0\ejerciccioClaseSiete.pdb
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\obj\Debug\net6.0\ejerciccioClaseSiete.genruntimeconfig.cache
+C:\Users\infor\source\repos\ejerciccioClaseSiete\ejerciccioClaseSiete\obj\Debug\net6.0\ref\ejerciccioClaseSiete.dll
